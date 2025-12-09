@@ -1,11 +1,11 @@
 [project]
-name = "analyser les donnée de systéme"
+name = "analyse-les-donnee-de-systeme"
 version = "0.1.0"
-description = "\"Analyser jeux de données\""
+description = "Analyser jeux de données"
 authors = [
     {name = "Antoine Noël",email = "noelantoine974@outlook.fr"}
 ]
-license = {text = "\"MIT\""}
+license = "MIT"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
